@@ -32,8 +32,10 @@ fp asimd evtstrm aes pmull sha1 sha2 crc32
 | Example | Location |
 |-----------| -------- |
 | Ring Buffer | [ring-buffer](ring-buffer) |
+| Vector Addition with NEON instructions | [neon](neon) |
 
 # Reading Material
 [A Guide to ARM64 / AArch64 Assembly on Linux with Shellcodes and Cryptography](https://modexp.wordpress.com/2018/10/30/arm64-assembly/)
 
+[The A64 Instruction Set Version 1.0](https://static.docs.arm.com/100898/0100/the_a64_Instruction_set_100898_0100.pdf)
 
